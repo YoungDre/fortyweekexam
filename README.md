@@ -1,0 +1,1 @@
+#rails in 20min
